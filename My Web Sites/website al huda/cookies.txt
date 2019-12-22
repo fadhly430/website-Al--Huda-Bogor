@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+alhudabogor.org	TRUE	/	FALSE	1999999999	PHPSESSID	pso95vp95kmgi22lgoui92qat4
+.google.com	TRUE	/	FALSE	1999999999	NID	194=KAloe_BJVOmjL8jst3PM1m02T0DDiq94TAtFNGMbJ_SYu6vpEx_I-_zLZSJSQA68llvtwySpxFmne7mPmdUW76EDZUNpCUVr1ewKPqdwrNlJwL8tVz0hSUChHNYvZpKKXfJ776aHF3y_lREhagsP9MyJ45grKqczZ2J2Z7ni75c
+
